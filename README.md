@@ -1,4 +1,4 @@
-# AWS CDK Three-Tier Web App Workshop
+# Terraform Three-Tier Web App Workshop
 > Terraform Three-Tier Web Application Workshop: Provision Three-Tier Web Application blueprint in AWS using Hashicorp Terraform.
 
 
